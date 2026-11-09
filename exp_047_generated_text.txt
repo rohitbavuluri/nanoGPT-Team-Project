@@ -1,0 +1,50 @@
+Overriding: out_dir = /content/nanoGPT/experiment_results/checkpoints/exp_047
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 40
+Overriding: device = cpu
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+VINCES:
+Cone, his are like love thee seet roughter.
+
+LOUCES:
+Ter, I'll wourd mut and a mobe
+All in on his our with pret a on love firs
+him to to be unter leaver and the catce mort?
+
+PRERINCA:
+Would fellow'd, but the brond the a witt
+Seep to let fating they, compition unce have
+
+CALUS:
+I hearnows of
+---------------
+
+Then firs, his by fairst ling her reper of in the fatne.
+
+CALUKET:
+Whe heav of a cret for peip, my nober of the be thing
+Hat it by shold your good me him of the dept heave
+The hands will that hos my actane'ss,
+Who were sand till appiss. Where lirly to so.
+
+DUCES:
+You him bost bricking hing and
+With 
+---------------
+
+KING HENRY VI:
+I we how were cot is to cence and to scark?
+
+PRELYCAFIUS:
+What me of mide! I heard
+I hearl be angestions. O heard I ham pose, my les,
+Ant thou and the prestery's a of kid so estre's
+She tong the besplak of the now hearth:
+Ever my should your fing were me it mese,
+There be is a call of
+---------------
